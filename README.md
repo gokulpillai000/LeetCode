@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gokulpillai000/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/gokulpillai000/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/gokulpillai000/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gokulpillai000/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/gokulpillai000/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
